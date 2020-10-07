@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jake! 🖖</h1>
-<h3 align="center">I'm a former travel industry expert and current full stack web developer with a love of learning.</h3>
+<h3 align="center">Former Program Manager of internal tool developemnt, turned full-stack engineer</h3>
 - 🔭 I’m currently searching for a role to begin a new career as a Full-stack developer
 -    Learning Python atm and strengthening my skills with JavaScript and frameworks such as React & Redux. 
 
