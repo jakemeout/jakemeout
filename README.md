@@ -1,8 +1,14 @@
 <h1 align="center" >Hi, I'm Jake! 🖖</h1>
 <h3 align="center"> Former Program Manager of internal tool developemnt, turned full-stack engineer</h3>
+<p> 
+  <ul align="center"> 
+    🔭 &nbsp I’m currently searching for a role to begin a new career as a Full-stack developer 
+    <br>
+    📖 &nbsp Learning Python, as well as strengthening my skills with JavaScript and JS frameworks such as React & Redux.
+  </ul>
+<p>
 
--  🔭   I’m currently searching for a role to begin a new career as a Full-stack developer
--  📖   Learning Python, as well as strengthening my skills with JavaScript and JS frameworks such as React & Redux. 
+ 
 
 
 <h3 align="center">Connect with me: 
@@ -50,9 +56,11 @@
   <a href="https://www.ruby-lang.org/en/" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/> 
   </a> 
+</p>
+<br>
+<p align="center">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakemeout&layout=compact" alt="jakemeout" />
   <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakemeout&layout=compact" alt="jakemeout" />
-  <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=jakemeout&show_icons=true" alt="jakemeout" />
+    <img  src="https://github-readme-stats.vercel.app/api?username=jakemeout&show_icons=true" alt="jakemeout" />
 </p>
 
