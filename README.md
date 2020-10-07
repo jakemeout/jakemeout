@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jake! 🖖</h1>
 <h3 align="center">Former Program Manager of internal tool developemnt, turned full-stack engineer</h3>
-- 🔭 I’m currently searching for a role to begin a new career as a Full-stack developer
--    Learning Python atm and strengthening my skills with JavaScript and frameworks such as React & Redux. 
+* 🔭 I’m currently searching for a role to begin a new career as a Full-stack developer
+* Learning Python atm and strengthening my skills with JavaScript and frameworks such as React & Redux. 
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
