@@ -1,9 +1,9 @@
 <h1 align="center" >Hi, I'm Jake! 🖖</h1>
-<h3 align="center"> Former Program Manager of internal tool developemnt, turned full-stack engineer</h3>
+<h3 align="center"> Former Program Manager of internal tool developemnt, turned developer</h3>
 <p align="center"> <img  src="https://komarev.com/ghpvc/?username=jakemeout&color=lightgrey" alt="jakemeout" /> </p>
 <p> 
   <ul align="center"> 
-    🔭 &nbsp I’m currently searching for a role to begin a new career as a Full-stack developer 
+    🔭 &nbsp I’m currently searching for a role to begin a new career as a software developer 
     <br>
     📖 &nbsp Learning Python, as well as strengthening my skills with JavaScript and JS frameworks such as React & Redux.
   </ul>
