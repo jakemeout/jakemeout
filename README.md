@@ -1,5 +1,5 @@
 <h1 align="center" >Hi, I'm Jake! 🖖</h1>
-<h3 align="center"> Former Program Manager of internal tool development, turned developer</h3>
+<h3 align="center"> Former Program Manager of internal tool development turned developer</h3>
 <p align="center"> <img  src="https://komarev.com/ghpvc/?username=jakemeout&color=lightgrey" alt="jakemeout" /> </p>
 <p> 
   <ul align="center"> 
