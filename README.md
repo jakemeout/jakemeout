@@ -16,7 +16,7 @@
 
 
 
-<h3 align="left">Connect with me: <a href="https://twitter.com/jakeme0ut" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jakeme0ut" height="30" width="40" /></a><a href="https://linkedin.com/in/https://www.linkedin.com/in/jacobhyde/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jacobhyde/" height="30" width="40" /></a>
+<h3 align="center">Connect with me: <a href="https://twitter.com/jakeme0ut" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jakeme0ut" height="30" width="40" /></a><a href="https://linkedin.com/in/https://www.linkedin.com/in/jacobhyde/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jacobhyde/" height="30" width="40" /></a>
 <a href="https://medium.com/@jacobosity" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jacobosity" height="30" width="40" /></a></h3>
 
 
