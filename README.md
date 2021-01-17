@@ -4,16 +4,15 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jakemeout&label=Profile%20views&color=0e75b6&style=flat" alt="jakemeout" /> </p>
 
 <div align="center">
- - 🔭 I’m currently working on a React Native application
+  🔭 I’m currently working on a React Native application
+  
+  🌱 I’m currently learning Python and more from React
+  
+  👨‍💻 All of my projects are available at [https://jakemeout.github.io/](https://jakemeout.github.io/)
 
- - 🌱 I’m currently learning Python and more from React
+  📝 I regulary write articles on [https://medium.com/@jacobosity](https://medium.com/@jacobosity)
 
- - 👨‍💻 All of my projects are available at [https://jakemeout.github.io/](https://jakemeout.github.io/)
-
- - 📝 I regulary write articles on [https://medium.com/@jacobosity](https://medium.com/@jacobosity)
-
- - 📄 Know about my experiences [https://jakemeout.github.io/resume/](https://jakemeout.github.io/resume/)
-
+  📄 Know about my experiences [https://jakemeout.github.io/resume/](https://jakemeout.github.io/resume/)
 
 
 <h3 align="center">Connect with me</h3> 
@@ -37,10 +36,8 @@
 <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
 
 <div align="center" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jakemeout&show_icons=true&locale=en&layout=compact" alt="jakemeout" />
-
 <img src="https://github-readme-stats.vercel.app/api?username=jakemeout&show_icons=true&locale=en" alt="jakemeout" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jakemeout&show_icons=true&locale=en&layout=compact" alt="jakemeout" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakemeout&" alt="jakemeout" />
 </div>
 </div>
