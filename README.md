@@ -5,9 +5,13 @@
 
 <div align="center">
   🔭 I’m currently working on a React Native application
+  
   🌱 I’m currently learning Python and more from React
+  
   👨‍💻 All of my projects are available at [https://jakemeout.github.io/](https://jakemeout.github.io/)
+  
   📝 I regulary write articles on [https://medium.com/@jacobosity](https://medium.com/@jacobosity)
+  
   📄 Know about my experiences [https://jakemeout.github.io/resume/](https://jakemeout.github.io/resume/)
 </div>
 <h3 align="center">Connect with me</h3> 
