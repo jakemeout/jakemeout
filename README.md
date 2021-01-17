@@ -5,16 +5,11 @@
 
 <div align="center">
   🔭 I’m currently working on a React Native application
-  
   🌱 I’m currently learning Python and more from React
-  
   👨‍💻 All of my projects are available at [https://jakemeout.github.io/](https://jakemeout.github.io/)
-
   📝 I regulary write articles on [https://medium.com/@jacobosity](https://medium.com/@jacobosity)
-
   📄 Know about my experiences [https://jakemeout.github.io/resume/](https://jakemeout.github.io/resume/)
-
-
+</div>
 <h3 align="center">Connect with me</h3> 
 <a href="https://twitter.com/jakeme0ut" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jakeme0ut" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jacobhyde/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jacobhyde/" height="30" width="40" /></a>
@@ -40,4 +35,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jakemeout&show_icons=true&locale=en&layout=compact" alt="jakemeout" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakemeout&" alt="jakemeout" />
 </div>
-</div>
+
