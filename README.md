@@ -4,10 +4,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jakemeout&label=Profile%20views&color=0e75b6&style=flat" alt="jakemeout" /> </p>
 
 <div align="center">
+ 
   
-  🔭 I’m currently working on a React Native application
-  
-  🌱 I’m currently learning Python and more from React
+  🌱 I’m currently learning Python
   
   👨‍💻 All of my projects are available at [https://jakemeout.github.io/](https://jakemeout.github.io/)
   
