@@ -12,7 +12,7 @@
   
   📝 I regulary write articles on [https://medium.com/@jacobosity](https://medium.com/@jacobosity)
   
-  📄 Know about my experiences [https://jakemeout.github.io/resume/](https://jakemeout.github.io/resume/)
+  📄 Learn more about my experience [https://jakemeout.github.io/resume/](https://jakemeout.github.io/resume/)
 </div>
 <h3 align="center">Connect with me</h3>
 <div align="center">
