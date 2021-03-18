@@ -38,7 +38,7 @@
  </div>
 <h3 align="center">Stats</h3>
 <div align="center" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakemeout&" alt="jakemeout" />
- <img src="https://github-readme-stats.vercel.app/api?username=jakemeout&show_icons=true&theme=radical" alt="jakemeout" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakemeout&theme=dark" alt="jakemeout" />
+ <img src="https://github-readme-stats.vercel.app/api?username=jakemeout&show_icons=true&theme=dark" alt="jakemeout" />
 </div>
 
