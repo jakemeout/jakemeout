@@ -6,7 +6,7 @@
 <div align="center">
  
   
-  🌱 I’m currently learning Python
+  🌱 I’m currently learning and working on an application with python/FastAPI and React/Redux (toolkit)
   
   👨‍💻 All of my projects are available at [https://jakemeout.github.io/](https://jakemeout.github.io/)
   
